@@ -20,11 +20,11 @@ mongo-id@1.0.1
 observe-sequence@1.0.7
 promise@0.5.1
 random@1.0.5
-react@0.14.1
+react@15.0.1
 react-meteor-data@0.2.2
-react-runtime@0.14.1
-react-runtime-dev@0.14.1
-react-runtime-prod@0.14.1
+react-runtime@15.0.1
+react-runtime-dev@15.0.1
+react-runtime-prod@15.0.1
 reactive-var@1.0.6
 thereactivestack:blazetoreact@0.1.5
 tracker@1.0.9
